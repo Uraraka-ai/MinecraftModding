@@ -19,7 +19,7 @@ import org.slf4j.Logger;
 @Mod(ExampleMod.MOD_ID)
 public class ExampleMod
 {
-    // Define mod id in a common place for everything to reference
+    // Define mod id in a common place for everythdfssding to reference
     public static final String MOD_ID = "tutormod";
     // Directly reference a slf4j logger
     public static final Logger LOGGER = LogUtils.getLogger();
