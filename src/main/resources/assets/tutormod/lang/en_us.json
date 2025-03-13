@@ -1,0 +1,22 @@
+{
+  "item.tutormod.alexandrite": "александрит",
+  "item.tutormod.raw_alexandrite": "сирий александрит",
+  "item.tutormod.chisel": "стамеска",
+  "item.tutormod.kohlrabi": "кольрабі",
+  "item.tutormod.aurora_ashes": "попіл аврори",
+
+  "block.tutormod.alexandrite_block": "блок александриту",
+  "block.tutormod.raw_alexandrite_block": "блок сирого александриту",
+  "block.tutormod.alexandrite_ore": "александритова руда",
+  "block.tutormod.alexandrite_deepslate_ore": "александритова сланцева руда",
+  "block.tutormod.magic_block": "магічнйи блок",
+
+
+  "creativetab.tutormod.alexandrite_items": "Александритові речі",
+  "creativetab.tutormod.alexandrite_blocks": "Блоки александриту",
+
+  "tooltip.tutormod.magic_block.tooltip" : "Цей блок небезпечно §9МАГІЧНИЙ!§r",
+  "tooltip.tutormod.chisel.shift_down": "Цей інструмент перетвоює блоки на цегляні",
+  "tooltip.tutormod.chisel" : "Натисни §eSHIFT§r для більшої інформації",
+  "tooltip.tutormod.kohlrabi": "Це смакує §2чудово!§r"
+}
