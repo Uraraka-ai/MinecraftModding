@@ -11,6 +11,19 @@
   "block.tutormod.alexandrite_deepslate_ore": "александритова сланцева руда",
   "block.tutormod.magic_block": "магічнйи блок",
 
+  "block.tutormod.alexandrite_stairs": "александритові сходи",
+  "block.tutormod.alexandrite_slab": "александритові плита",
+
+  "block.tutormod.alexandrite_button": "александритова кнопка",
+  "block.tutormod.alexandrite_pressure_plate": "александритова нажимна плита",
+
+  "block.tutormod.alexandrite_fence": "александритовий паркан",
+  "block.tutormod.alexandrite_fence_gate": "александритові ворота",
+  "block.tutormod.alexandrite_wall": "александритова стіна",
+
+  "block.tutormod.alexandrite_door": "александритові двері",
+  "block.tutormod.alexandrite_trapdoor": "александритовий люк",
+
 
   "creativetab.tutormod.alexandrite_items": "Александритові речі",
   "creativetab.tutormod.alexandrite_blocks": "Блоки александриту",
